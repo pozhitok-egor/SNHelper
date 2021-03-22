@@ -1,6 +1,6 @@
 {
-    "latest": "1.0",
-    "latest_num": 1,
-    "updateurl": "https://github.com/GORYCHsamp/scripts/raw/master/ForCops.luac",
-    "comment": []
+    "latest": "1.0-b2",
+    "latest_num": 2,
+    "updateurl": "https://github.com/pozhitok-egor/SNHelper/blob/main/SNHelper.luac",
+    "comment": ['Небольшие фиксы, требующие обновления']
 }
