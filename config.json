@@ -1,6 +1,6 @@
 {
     "latest": "1.0-b2",
     "latest_num": 2,
-    "updateurl": "https://github.com/pozhitok-egor/SNHelper/blob/main/SNHelper.luac",
+    "updateurl": "https://github.com/pozhitok-egor/SNHelper/raw/main/SNHelper.luac",
     "comment": ["Небольшие фиксы, требующие обновления"]
 }
